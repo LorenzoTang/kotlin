@@ -1,5 +1,6 @@
 // Task 3.1: command line arguments
-
+//Name: Tang Le 
+//ID: 201912989 
 import kotlin.system.exitProcess
 
 fun main(args: Array<String>) {
