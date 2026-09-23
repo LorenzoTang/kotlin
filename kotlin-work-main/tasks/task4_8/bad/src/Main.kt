@@ -1,5 +1,6 @@
 // Task 4.8: demo of bad approach to building strings iteratively
-
+//Name: Tang Le 
+//ID: 201912989 
 import kotlin.system.exitProcess
 import kotlin.time.measureTime
 
