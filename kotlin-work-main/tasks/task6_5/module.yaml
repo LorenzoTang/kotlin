@@ -1,5 +1,12 @@
 product: jvm/app
 
+repositories:
+  - id: aliyun-central
+    url: https://maven.aliyun.com/repository/central
+  - id: google
+    url: https://maven.google.com
+    resolve: false
+
 test-dependencies:
   - $libs.kotest.assertions
   - $libs.kotest.framework

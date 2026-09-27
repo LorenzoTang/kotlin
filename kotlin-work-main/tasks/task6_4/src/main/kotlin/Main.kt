@@ -1,5 +1,6 @@
 // Task 6.4: demo program for grade()
-
+//Name: Tang Le 
+//ID: 201912989
 fun main() {
     println("25 -> ${grade(25)}")
     println("47 -> ${grade(47)}")

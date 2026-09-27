@@ -1,5 +1,6 @@
 // Task 6.5: exam grading function
-
+//Name: Tang Le 
+//ID: 201912989
 fun grade(mark: Int) = when (mark) {
     in 0..39 -> "Fail"
     in 40..69 -> "Pass"
