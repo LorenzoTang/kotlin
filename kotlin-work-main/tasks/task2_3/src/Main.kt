@@ -1,6 +1,5 @@
+//name: Tang Le, Student ID: 201912989
 // Task 2.3
-//Name: Tang Le 
-//ID: 201912989  
 fun main() {
     val myAge = 29u
     val universeAge = 13_800_000_000L

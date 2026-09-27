@@ -1,11 +1,10 @@
+//name: Tang Le, Student ID: 201912989
 // Task 3.1: command line arguments
-//Name: Tang Le 
-//ID: 201912989 
 import kotlin.system.exitProcess
 
 fun main(args: Array<String>) {
-    if (args.size < 2) {
-        println("Please provide at least two command line arguments.")
+    if (args.size != 2) {
+        println("Please provide exactly two command line arguments.")
         exitProcess(1)
     }
     
