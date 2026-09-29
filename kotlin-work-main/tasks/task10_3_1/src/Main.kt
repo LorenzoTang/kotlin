@@ -1,5 +1,6 @@
 // Task 10.3.1
-
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 import kotlin.system.exitProcess
 
 fun display(text: String) {
@@ -18,5 +19,8 @@ fun main(args: Array<String>) {
     val result = translate[word]
 
     //println(result)
-    display(result)
+    when(result) {
+        null -> display("?")
+        else -> display(result)
+    }
 }

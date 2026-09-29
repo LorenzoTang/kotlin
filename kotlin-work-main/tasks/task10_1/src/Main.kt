@@ -1,5 +1,6 @@
 // Task 10.1
-
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 import kotlin.system.exitProcess
 
 fun display(text: String) {
@@ -17,6 +18,6 @@ fun main(args: Array<String>) {
     val word = args[0].lowercase()
     val result = translate[word]
 
-    println(result)
-    //display(result)
+    //println(result)
+    display(result)
 }

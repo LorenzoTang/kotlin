@@ -1,9 +1,13 @@
 // Task 10.3.2
-
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 import kotlin.system.exitProcess
 
-fun display(text: String) {
-    println(text.uppercase())
+fun display(text: String?) {
+    when (text) {
+        null -> println("?")
+        else -> println(text.uppercase())
+    }
 }
 
 fun main(args: Array<String>) {
