@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="6DTRn0d943XonbaHxvXf">
+    <mxGraphModel dx="926" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7wO6aQ7UXEVtKfALShR-12" edge="1" parent="1" source="R7wO6aQ7UXEVtKfALShR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R7wO6aQ7UXEVtKfALShR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7wO6aQ7UXEVtKfALShR-15" connectable="0" parent="R7wO6aQ7UXEVtKfALShR-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;enrols on&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0857" y="-1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7wO6aQ7UXEVtKfALShR-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="Student" vertex="1">
+          <mxGeometry height="133" width="150" x="140" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="R7wO6aQ7UXEVtKfALShR-2" parent="R7wO6aQ7UXEVtKfALShR-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="&lt;div&gt;id: Int&lt;/div&gt;&lt;div&gt;name: String&lt;/div&gt;&lt;div&gt;degreeProgramme: String&lt;/div&gt;&lt;div&gt;levelOfStudy: Int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="104" width="150" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="R7wO6aQ7UXEVtKfALShR-8" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" value="Module" vertex="1">
+          <mxGeometry height="195" width="150" x="430" y="329" as="geometry" />
+        </mxCell>
+        <mxCell id="R7wO6aQ7UXEVtKfALShR-9" parent="R7wO6aQ7UXEVtKfALShR-8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="&lt;div&gt;moduleCode: String&lt;/div&gt;&lt;div&gt;title: String&lt;/div&gt;&lt;div&gt;numCredits: Int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="79" width="150" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="R7wO6aQ7UXEVtKfALShR-10" parent="R7wO6aQ7UXEVtKfALShR-8" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" value="&lt;div&gt;enrolStudent(student: Student)&lt;/div&gt;&lt;div&gt;generateTranscript(student: Student)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="87" width="150" y="108" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
