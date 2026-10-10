@@ -1,5 +1,6 @@
 // Task 12.7: data classes vs regular classes
-
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 import kotlinx.datetime.LocalDate
 
 fun main() {
@@ -16,9 +17,9 @@ fun main() {
     println("p1.toString() : $p1")
     println("p2.toString() : $p2")
 
-    // println("p1 marries")
-    // p1.isMarried = true
-    // println("p1 == p2?     : ${p1 == p2}")
-    // println("p1.hashCode() : %08x".format(p1.hashCode()))
-    // println("p1.toString() : $p1")
+    println("p1 marries")
+    p1.isMarried = true
+    println("p1 == p2?     : ${p1 == p2}")
+    println("p1.hashCode() : %08x".format(p1.hashCode()))
+    println("p1.toString() : $p1")
 }
