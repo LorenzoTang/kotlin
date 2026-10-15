@@ -1,4 +1,6 @@
 // Task 16.3: Picture class, representing a collection of shapes
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 
 import java.awt.Graphics2D
 

@@ -1,4 +1,6 @@
 // Task 17.5: Image class (subclass of Bitmap, implements Drawable)
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 // Note that Bitmap is provided by a separate library module
 
 import com.example.imglib.Bitmap

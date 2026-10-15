@@ -1,4 +1,6 @@
 // Task 17.5: Canvas class
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 
 import java.awt.Dimension
 import java.awt.Graphics

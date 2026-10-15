@@ -1,4 +1,6 @@
 // Task 15.4.2: Shape class, a superclass for different kinds of shape
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 
 import java.awt.Color
 import java.awt.Graphics2D

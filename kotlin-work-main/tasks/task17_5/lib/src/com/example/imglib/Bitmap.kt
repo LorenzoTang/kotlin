@@ -1,4 +1,6 @@
 // Task 17.5: superclass for Image
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 
 package com.example.imglib
 

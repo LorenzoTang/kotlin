@@ -1,4 +1,6 @@
 // Task 15.4.2: main program
+//name: Le Tang
+//Student ID: 201912989(Leeds)//SWJTU:2024117002
 
 import java.awt.BorderLayout
 import java.awt.Color
@@ -14,7 +16,7 @@ fun main() = SwingUtilities.invokeLater {
         add(Rectangle(15, 120, 25, 60, Color.GREEN))
         add(Circle(290, 110, 60, Color.LIGHT_GRAY))
         add(Circle(165, 320, 35, Color.YELLOW))
-        //add(Triangle(185, 200, 70, 55, Color.RED))
+        add(Triangle(185, 200, 70, 55, Color.RED))
     }
 
     val canvas = Canvas(pic)
